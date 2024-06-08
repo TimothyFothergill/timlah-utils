@@ -1,0 +1,15 @@
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.AssemblyInfoInputs.cache
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.AssemblyInfo.cs
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.csproj.CoreCompileInputs.cache
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\bin\Debug\net7.0\TimlahUnityUtils.deps.json
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\bin\Debug\net7.0\TimlahUnityUtils.dll
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\bin\Debug\net7.0\TimlahUnityUtils.pdb
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\bin\Debug\net7.0\UnityEngine.dll
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\bin\Debug\net7.0\UnityEngine.xml
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.csproj.AssemblyReference.cache
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.csproj.CopyComplete
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.dll
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\refint\TimlahUnityUtils.dll
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\TimlahUnityUtils.pdb
+C:\Users\UKGC\C# Libraries\timlah-utils\TimlahUnityUtils\obj\Debug\net7.0\ref\TimlahUnityUtils.dll
